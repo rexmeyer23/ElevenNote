@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ElevenNote.Models
 {
-    public class NoteListItem
+    public class NoteListItem //get all notes listed with this info
     {
         public int NoteId { get; set; }
         public string Title { get; set; }

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ElevenNote.Models
 {
-   public class NoteCreate
+   public class NoteCreate  //all info we want user to put in to create note
     {
         [Required]
         [MinLength(2, ErrorMessage = "Please enter at least 2 characters.")]
