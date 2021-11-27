@@ -14,3 +14,17 @@ C:\ElevenNote\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.Co
 C:\ElevenNote\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CopyComplete
 C:\ElevenNote\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll
 C:\ElevenNote\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.pdb
+C:\ElevenNote\ElevenNote\ElevenNote.Models\bin\Debug\Microsoft.Owin.Cors.dll
+C:\ElevenNote\ElevenNote\ElevenNote.Models\bin\Debug\Microsoft.Owin.dll
+C:\ElevenNote\ElevenNote\ElevenNote.Models\bin\Debug\Newtonsoft.Json.dll
+C:\ElevenNote\ElevenNote\ElevenNote.Models\bin\Debug\Owin.dll
+C:\ElevenNote\ElevenNote\ElevenNote.Models\bin\Debug\System.Net.Http.Formatting.dll
+C:\ElevenNote\ElevenNote\ElevenNote.Models\bin\Debug\System.Web.Cors.dll
+C:\ElevenNote\ElevenNote\ElevenNote.Models\bin\Debug\System.Web.Http.Cors.dll
+C:\ElevenNote\ElevenNote\ElevenNote.Models\bin\Debug\System.Web.Http.dll
+C:\ElevenNote\ElevenNote\ElevenNote.Models\bin\Debug\Microsoft.Owin.xml
+C:\ElevenNote\ElevenNote\ElevenNote.Models\bin\Debug\Microsoft.Owin.Cors.xml
+C:\ElevenNote\ElevenNote\ElevenNote.Models\bin\Debug\Newtonsoft.Json.xml
+C:\ElevenNote\ElevenNote\ElevenNote.Models\bin\Debug\System.Net.Http.Formatting.xml
+C:\ElevenNote\ElevenNote\ElevenNote.Models\bin\Debug\System.Web.Http.xml
+C:\ElevenNote\ElevenNote\ElevenNote.Models\bin\Debug\System.Web.Http.Cors.xml

@@ -20,3 +20,17 @@ C:\ElevenNote\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.pdb
 C:\ElevenNote\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll.config
 C:\ElevenNote\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.pdb
 C:\ElevenNote\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll.config
+C:\ElevenNote\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.Owin.Cors.dll
+C:\ElevenNote\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.Owin.dll
+C:\ElevenNote\ElevenNote\ElevenNote.Services\bin\Debug\Newtonsoft.Json.dll
+C:\ElevenNote\ElevenNote\ElevenNote.Services\bin\Debug\Owin.dll
+C:\ElevenNote\ElevenNote\ElevenNote.Services\bin\Debug\System.Net.Http.Formatting.dll
+C:\ElevenNote\ElevenNote\ElevenNote.Services\bin\Debug\System.Web.Cors.dll
+C:\ElevenNote\ElevenNote\ElevenNote.Services\bin\Debug\System.Web.Http.Cors.dll
+C:\ElevenNote\ElevenNote\ElevenNote.Services\bin\Debug\System.Web.Http.dll
+C:\ElevenNote\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.Owin.xml
+C:\ElevenNote\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.Owin.Cors.xml
+C:\ElevenNote\ElevenNote\ElevenNote.Services\bin\Debug\Newtonsoft.Json.xml
+C:\ElevenNote\ElevenNote\ElevenNote.Services\bin\Debug\System.Net.Http.Formatting.xml
+C:\ElevenNote\ElevenNote\ElevenNote.Services\bin\Debug\System.Web.Http.xml
+C:\ElevenNote\ElevenNote\ElevenNote.Services\bin\Debug\System.Web.Http.Cors.xml
