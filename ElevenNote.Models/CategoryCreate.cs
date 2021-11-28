@@ -9,9 +9,12 @@ namespace ElevenNote.Models
 {
     public class CategoryCreate
     {
+
+        public int CategoryId { get; set; }
+        [MinLength(5, ErrorMessage = "Please enter at least 5 characters.")]
+        [MaxLength(20, ErrorMessage = "There are too many characters in this field (Max 20).")]
         [Required]
-        [MinLength(2, ErrorMessage = "Please enter at least 2 characters.")]
-        [MaxLength(100, ErrorMessage = "There are too many characters in this field.")]
-        public string Name { get; set; }
+        public string CategoryName { get; set; }
+        public override string ToString() => CategoryName;
     }
 }

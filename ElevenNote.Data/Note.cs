@@ -15,13 +15,6 @@ namespace ElevenNote.Data
         [Key]
         public int NoteId { get; set; }
 
-        //ForeignKey
-        [ForeignKey(nameof(Category))]
-        public int CategoryId { get; set; }
-
-        // navigation property
-        public virtual Category Category { get; set; } //virtual keyword tell us something can be overriden, entity framework uses this as a way to recognize the two and build that actual foreing key relationship
-
         [Required]
         public Guid OwnerId { get; set; }
 
@@ -32,7 +25,21 @@ namespace ElevenNote.Data
         public string Content { get; set; }
 
         [Required]
+        [Display(Name = "Date Created")]
         public DateTimeOffset CreatedUtc { get; set; }
+        [Display(Name = "Date Modified")]
         public DateTimeOffset? ModifiedUtc { get; set; }
+
+        //foreign key relationships only need to be made in data layer
+        // One to many relationship, one category can have many notes
+        //ForeignKey
+        [ForeignKey(nameof(Category))] //can also write it as [ForeignKey("Category")], annotation is optional but reccommended because it defines control, foreign key can go on actual navigtaional property or entity itself
+        //ctrl r r renames all references at once
+        //ctrl shift h is find and replace, will find any matching name in project rather than specific reference as mentioned above
+        public int CategoryId { get; set; }
+
+        // navigation property
+        public virtual Category Category { get; set; } //virtual keyword tell us something can be overriden, entity framework uses this as a way to recognize the two and build that actual foreing key relationship
+
     }
 }
